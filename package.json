@@ -1,0 +1,15 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": ">",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.56.0",
+    "typescript": "^4.8.4"
+  }
+}
